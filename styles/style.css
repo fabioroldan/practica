@@ -1,0 +1,21 @@
+body {
+  background-color: grey;
+  padding: 0;
+}
+
+header {
+  background-color: green;
+  border: 2px solid yellow;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logos {
+  margin-left: 1rem;
+} 
+
+#social {
+  background-color: red;
+}
